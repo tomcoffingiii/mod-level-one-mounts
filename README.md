@@ -1,6 +1,6 @@
 # mod-level-one-mounts
 
-Author: Thomas Coffing ([@tomcoffingiii](https://github.com/tomcoffingiii)
+Author: Thomas Coffing ([@tomcoffingiii](https://github.com/tomcoffingiii))
 
 Repository: https://github.com/tomcoffingiii/mod-level-one-mounts
 
