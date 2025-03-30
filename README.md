@@ -1,9 +1,13 @@
 # mod-level-one-mounts
 
 Name: mod-level-one-mounts.
+
 Author: Thomas Coffing (@tomcoffingiii).
+
 Repository: https://github.com/tomcoffingiii/mod-level-one-mounts
+
 Download: https://github.com/tomcoffingiii/mod-level-one-mounts/archive/refs/heads/main.zip
+
 License: GNU Affero General Public License v3.0.
 
 Description: SQL to allow players to learn the initial riding skill and purchase mounts at level 1.
