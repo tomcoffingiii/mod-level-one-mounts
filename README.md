@@ -1,7 +1,5 @@
 # mod-level-one-mounts
 
-Name: mod-level-one-mounts.
-
 Author: Thomas Coffing (@tomcoffingiii).
 
 Repository: https://github.com/tomcoffingiii/mod-level-one-mounts
