@@ -6,8 +6,6 @@ Use level-one-mounts.sql to apply the changes to your world database.  A server 
 
 This change affects the following mounts: 
 
-This update will change the following mounts to become availble at level 1 and cost the player no more than 10 coppper to purchase:
-
 Horn of the Timber Wolf, 
 Black Stallion Bridle, 
 Pinto Bridle, 
