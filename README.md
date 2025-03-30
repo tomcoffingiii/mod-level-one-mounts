@@ -15,7 +15,7 @@ Instructions: Use level-one-mounts.sql on your world database (script references
 
 These SQL scripts pair very well with the following azerothcore mods:  
 
-1) sql-npc-teleporter: This allows players in starting areas to port to other starting araes.  Some rider trainers are harder to get to than others: https://www.azerothcore.org/catalogue#/details/311142327 
+1) sql-npc-teleporter: This allows players in starting areas to port to other starting areas.  Some rider trainers are harder to get to than others: https://www.azerothcore.org/catalogue#/details/311142327 
 
 1) mod-customlogin: This gives the player exhaulted faction with the 5 main factions on either the alliance or horde side.  This gives players more mount options from the get-go: https://www.azerothcore.org/catalogue#/details/189713701
 
