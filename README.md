@@ -13,6 +13,12 @@ Description: SQL to allow players to learn the initial riding skill and purchase
 
 Instructions: Use level-one-mounts.sql on your world database (script references acore_world) to apply the changes to your world.  A server restart will be required for the changes to take affect.  To revert back to level 20 mounts, use level-twenty-mounts.sql.
 
+These SQL scripts pair very well with the following azerothcore mods:  
+
+This allows players in starting areas to port to other starting araes.  Some rider trainers are harder to get to than others: https://www.azerothcore.org/catalogue#/details/311142327 
+
+This gives the player exhaulted faction with the 5 main factions on either the alliance or horde side.  This gives players more mount options from the get-go: https://www.azerothcore.org/catalogue#/details/189713701
+
 This change affects the following mounts: 
 
 Horn of the Timber Wolf, 
