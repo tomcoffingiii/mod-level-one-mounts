@@ -1,14 +1,14 @@
 # mod-level-one-mounts
 
-Author: Thomas Coffing (@tomcoffingiii).
+Author: Thomas Coffing ([@tomcoffingiii](https://github.com/tomcoffingiii)
 
 Repository: https://github.com/tomcoffingiii/mod-level-one-mounts
 
 Download: https://github.com/tomcoffingiii/mod-level-one-mounts/archive/refs/heads/main.zip
 
-License: GNU Affero General Public License v3.0.
+License: GNU Affero General Public License v3.0
 
-Description: SQL to allow players to learn the initial riding skill and purchase mounts at level 1.
+Description: SQL to allow players to learn the initial riding skill and purchase mounts at level one
 ![image](https://github.com/user-attachments/assets/f57703d1-da70-4c02-b5f6-c3b21f176d37)
 
 Instructions: Use level-one-mounts.sql on your world database (script references acore_world) to apply the changes to your world database.  A server restart will be required for the changes to take affect.  To revert back to level 20 mounts, use level-twenty-mounts.sql.
